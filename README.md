@@ -1,1 +1,1 @@
-# KModeClustering
+# KModesClustering
